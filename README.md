@@ -17,3 +17,14 @@ root
 ## Why
 
 Kinda made this to archive what I have done and share it about because the more knowledge about with no barrier to entry the better especially when upon the high seas
+
+but do note that this is for educating not to share any posible infringing materials there are plenty of places that are hidden in plain sight for those needs
+
+## Who
+
+While at the moment I am just a lone encoder that may change or might get some more people to contribute to this
+
+there are two groups that release all the content that is documented here
+
+- **GEM** encodes movies 💎
+- **ZINE** is not encoded 📰
