@@ -1,0 +1,291 @@
+General
+Unique ID                                : 175646195837798279067824511463510176082 (0x84243A10C1770A5DF31238F2554EF152)
+Complete name                            : Seven.Samurai.1954.1080p.UHD.BluRay.FLAC.1.0.x264-GEM.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 22.1 GiB
+Duration                                 : 3 h 26 min
+Overall bit rate mode                    : Variable
+Overall bit rate                         : 15.3 Mb/s
+Frame rate                               : 23.976 FPS
+Movie name                               : Seven Samurai (1954) / Seven Samurai (1954)
+Released date                            : 1954-04-26
+Encoded date                             : 2024-07-30 22:59:53 UTC
+Writing application                      : mkvmerge v81.0 ('Milliontown') 64-bit
+Writing library                          : libebml v1.4.4 + libmatroska v1.7.1
+ACTOR                                    : Ren Yamamoto
+DIRECTOR                                 : Akira Kurosawa
+GENRE                                    : Drama
+IMDB                                     : tt0047478
+SUBTITLE                                 : The Mighty Warriors Who Became the Seven National Heroes of a Small Town
+SUMMARY                                  : A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.
+TMDB                                     : 346
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 3 h 26 min
+Bit rate                                 : 14.6 Mb/s
+Width                                    : 1 480 pixels
+Height                                   : 1 080 pixels
+Display aspect ratio                     : 1.370
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.380
+Stream size                              : 21.0 GiB (95%)
+Writing library                          : x264 core 164
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=48 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=9 / lookahead_threads=2 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=16 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=250 / rc=crf / mbtree=0 / crf=17.0 / qcomp=0.60 / qpmin=0 / qpmax=69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / pb_ratio=1.30 / aq=3:0.70
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Codec ID                                 : A_FLAC
+Duration                                 : 3 h 26 min
+Bit rate mode                            : Variable
+Bit rate                                 : 358 kb/s
+Channel(s)                               : 1 channel
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 11.719 FPS (4096 SPF)
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Stream size                              : 530 MiB (2%)
+Title                                    : Original Mono Mix
+Writing library                          : libFLAC 1.4.2 (2022-10-22)
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+MD5 of the unencoded content             : 806436349B154EE768F82524D1ECE96D
+
+Audio #2
+ID                                       : 3
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 3 h 26 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 1 channel
+Channel layout                           : M
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 284 MiB (1%)
+Title                                    : Commentary by popular scholars and critics David Desser, Joan Mellen, Stephen Prince, Tony Rayns, and Donald Richie
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : AC-3
+Format/Info                              : Audio Coding 3
+Commercial name                          : Dolby Digital
+Codec ID                                 : A_AC3
+Duration                                 : 3 h 26 min
+Bit rate mode                            : Constant
+Bit rate                                 : 192 kb/s
+Channel(s)                               : 1 channel
+Channel layout                           : M
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 284 MiB (1%)
+Title                                    : Commentary by Japanese film expert Michael Jack
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 3 h 26 min
+Bit rate                                 : 25 b/s
+Frame rate                               : 0.108 FPS
+Count of elements                        : 1336
+Stream size                              : 38.6 KiB (0%)
+Title                                    : US
+Language                                 : English (US)
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 3 h 26 min
+Bit rate                                 : 17 b/s
+Frame rate                               : 0.065 FPS
+Count of elements                        : 810
+Stream size                              : 26.1 KiB (0%)
+Title                                    : GB
+Language                                 : English (GB)
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 3 h 26 min
+Bit rate                                 : 21 b/s
+Frame rate                               : 0.133 FPS
+Count of elements                        : 1644
+Stream size                              : 33.0 KiB (0%)
+Language                                 : Mandarin (Hant)
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 8
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 3 h 26 min
+Bit rate                                 : 23 b/s
+Frame rate                               : 0.087 FPS
+Count of elements                        : 1082
+Stream size                              : 35.8 KiB (0%)
+Language                                 : Danish
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 9
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 3 h 26 min
+Bit rate                                 : 24 b/s
+Frame rate                               : 0.087 FPS
+Count of elements                        : 1082
+Stream size                              : 36.4 KiB (0%)
+Language                                 : Finnish
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 10
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 3 h 26 min
+Bit rate                                 : 16.3 kb/s
+Frame rate                               : 0.254 FPS
+Count of elements                        : 3142
+Stream size                              : 24.1 MiB (0%)
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 11
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 3 h 22 min
+Bit rate                                 : 27 b/s
+Frame rate                               : 0.112 FPS
+Count of elements                        : 1358
+Stream size                              : 40.0 KiB (0%)
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+
+Text #8
+ID                                       : 12
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 3 h 22 min
+Bit rate                                 : 44.2 kb/s
+Frame rate                               : 0.373 FPS
+Count of elements                        : 4539
+Stream size                              : 64.2 MiB (0%)
+Title                                    : SDH
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+
+Text #9
+ID                                       : 13
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 3 h 26 min
+Bit rate                                 : 23 b/s
+Frame rate                               : 0.087 FPS
+Count of elements                        : 1082
+Stream size                              : 34.9 KiB (0%)
+Language                                 : Norwegian
+Default                                  : No
+Forced                                   : No
+
+Text #10
+ID                                       : 14
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 3 h 26 min
+Bit rate                                 : 24 b/s
+Frame rate                               : 0.087 FPS
+Count of elements                        : 1082
+Stream size                              : 36.4 KiB (0%)
+Language                                 : Swedish
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Main Titles
+00:02:50.044                             : en:"Is There No God to Protect Us?"
+00:10:09.108                             : en:Shopping for Samurai
+00:16:53.053                             : en:Death of a Thief
+00:24:42.606                             : en:A Master and His Disciples
+00:32:44.003                             : en:Samurai Auditions, Part I
+00:40:18.332                             : en:Samurai Auditions, Part II
+00:49:37.599                             : en:The Seventh Samurai
+01:00:58.488                             : en:Frightened Village
+01:09:34.128                             : en:False Alarm
+01:14:03.147                             : en:Making Plans
+01:22:28.568                             : en:"Still a Child"
+01:26:21.593                             : en:Samurai Armor
+01:34:06.474                             : en:The Secret Garden
+01:40:15.718                             : en:Training
+01:46:31.218                             : en:Intermission
+01:51:46.658                             : en:Harvesting
+01:55:16.659                             : en:Night Watch
+01:58:53.125                             : en:Building Barricades
+02:04:44.643                             : en:The Scouts
+02:12:02.205                             : en:The Surprise Attack
+02:19:55.595                             : en:Funeral
+02:22:13.274                             : en:The First Battle
+02:33:21.400                             : en:Night Skirmish
+02:40:59.983                             : en:The Second Battle
+02:48:48.076                             : en:Behind the Lines
+03:00:17.389                             : en:That Night
+03:13:30.515                             : en:The Last Battle
+03:22:31.764                             : en:Finale
+
+ReportBy                                 : MediaInfoLib - v23.04
