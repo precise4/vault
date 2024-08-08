@@ -1,4 +1,4 @@
-# Seven.Samurai.1954.1080p.UHD.BluRay.FLAC.1.0.x264
+# Seven.Samurai.1954.1080p.UHD.BluRay.FLAC.1.0.x264-💎
 
 ## Motovation
 
