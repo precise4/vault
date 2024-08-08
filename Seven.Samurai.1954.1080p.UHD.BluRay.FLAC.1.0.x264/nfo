@@ -1,0 +1,13 @@
+Info:
+...Source: 2160p UHD BluRay REMUX HEVC FLAC 1.0-CiNEPHiLES (video, audio, subtitles, chapters) [Toho 4K Remaster]
+
+Notes:
+- Resized and dithered with resize.Bicubic
+- BFI Player/AMZN audio for better quality https://blah-ray.blogspot.com/2019/08/seven-samurai-1954.html
+- New UHD https://blah-ray.blogspot.com/2019/08/seven-samurai-1954.html
+
+x264 [info]: frame I:1617  Avg QP:17.05  size:173586
+x264 [info]: frame P:59394 Avg QP:18.64  size:116744
+x264 [info]: frame B:236493 Avg QP:20.57  size: 64975
+x264 [info]: consecutive B-frames:  1.2%  1.6%  5.1% 17.7% 13.8% 51.9%  3.3%  0.9%  1.0%  0.5%  0.4%  0.3%  0.4%  0.4%  0.3%  0.4%  0.6%
+x264 [info]: kb/s:14558.29
