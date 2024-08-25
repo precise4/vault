@@ -1,57 +1,18 @@
-[center][b][code]
-   █████████  ██████████ ██████   ██████
-  ███░░░░░███░░███░░░░░█░░██████ ██████
- ███     ░░░  ░███  █ ░  ░███░█████░███
-░███          ░██████    ░███░░███ ░███
-░███    █████ ░███░░█    ░███ ░░░  ░███
-░░███  ░░███  ░███ ░   █ ░███      ░███
- ░░█████████  ██████████ █████     █████
-  ░░░░░░░░░  ░░░░░░░░░░ ░░░░░     ░░░░░
-[/code][/b][/center]
-[h2] [/h2]
+Info:
+...Source1: 1080p BluRay AVC TrueHD7.1-MTeam (video, subtitles[SUPs], chapters)
+...Source2: WEB-DL MA FLUX (audio, subtitles[SDH])
+...Source3: ATVP (most subs)
 
-[b]Source[/b]:
-[spoiler=BluRay.1080p.AVC.Atmos.TrueHD7.1-MTeam][video, subtitles(SUPs), chapters]
-[code]
-Disc Title:     The Fabelmans
-Disc Label:     The.Fabelmans.2022.BluRay.1080p.AVC.Atmos.TrueHD7.1-MTeam
-Disc Size:      48,591,460,216 bytes
-Protection:     AACS
-Playlist:       00612.MPLS
-Size:           42,226,814,976 bytes
-Length:         02:30:45.703
-Total Bitrate:  37.35 Mbps
-Video:          MPEG-4 AVC Video / 28,633 kbps / 1080p / 23.976 fps / 16:9 / High Profile 4.1
-Audio:          English / Dolby TrueHD Audio / 7.1 / 48 kHz /  3627 kbps / 24-bit (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
-Audio:          Spanish / Dolby Digital Plus Audio / 7.1 / 48 kHz /   768 kbps / DN -27dB (AC3 Embedded: 5.1 / 48 kHz /   448 kbps / DN -27dB)
-Audio:          French / Dolby Digital Audio / 5.1 / 48 kHz /   640 kbps / DN -27dB
-Audio:          English / Dolby Digital Audio / 2.0 / 48 kHz /   192 kbps / DN -27dB
-Subtitle:       English / 42.88 kbps
-Subtitle:       Spanish / 31.23 kbps
-Subtitle:       French / 33.26 kbps
-[/code]
-[/spoiler]
-▶ WEB-DL MA [audio, subtitles(SDH)]
-▶ ATVP [additional subtitles]
-
-[b]Notes:[/b]
-[code]
+Notes:
 - Credits zoned
 - Subtitles synced
 - Audio synced
 - Used WEB-DL audio because better compression while staying transparent
-[/code]
 
-[center][url=https://slow.pics/c/kJSWfYkW]Source vs Encode Comp[/url][/center]
+Comp: https://slow.pics/c/kJSWfYkW
 
-[spoiler=x264 Logs]
-[code]
 x264 [info]: frame I:1144  Avg QP:16.69  size:299979
 x264 [info]: frame P:42583 Avg QP:18.12  size:154296
 x264 [info]: frame B:173153 Avg QP:19.87  size: 94619
 x264 [info]: consecutive B-frames:  1.1%  1.3%  9.1%  8.2% 12.7% 56.6%  5.5%  1.0%  1.0%  1.0%  0.6%  0.7%  0.3%  0.2%  0.2%  0.1%  0.4%
 x264 [info]: kb/s:20603.90
-[/code]
-[/spoiler]
-
-[center][size=28][b][color=skyblue]Screens[/color][/b][/size]
