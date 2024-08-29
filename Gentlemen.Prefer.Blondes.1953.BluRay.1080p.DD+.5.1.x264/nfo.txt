@@ -1,0 +1,7 @@
+Info:
+...Source: 1080p BluRay REMUX AVC DTS-HD MA 7.1-FraMeSToR
+
+Notes:
+- Using new encoding process so might be more consistent
+
+Comp: https://slow.pics/c/u5Mr9ueP
