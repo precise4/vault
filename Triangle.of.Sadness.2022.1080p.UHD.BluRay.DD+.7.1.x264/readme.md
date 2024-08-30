@@ -2,19 +2,7 @@
 
 ## Motovation
 
-Noticed that most encodes for this movie incorrectly crop by removing one line of pixels and are based on the FHD BluRay 
-
-The FHD has 4 lines of dirty lines on the top and bottom while the 4k has none so it would be better to fill the border 1 pixel from non dirty lines to gain that extra line on the bottom or top
-
-So 
-
-Crop 1920:804:0:138 -> Fix Border 4 top 3 bottom < Crop 3840:1612:0:274 -> Fill border top 1 -> Resize 1920x806
-
-IMO 
-
-And because the 4K UHD BluRay is SDR this makes this a walk in the park
-
-Comparing the UHD with the FHD sources are so close psycovisually that the only thing that matters is the stuff stated above
+The UHD BluRay is SDR with better quality vs FHD BluRay and can run it at 10bit
 
 ## Method
 
