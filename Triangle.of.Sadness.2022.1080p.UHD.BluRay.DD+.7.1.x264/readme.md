@@ -2,7 +2,7 @@
 
 ## Motovation
 
-Noticed that most encodes for this movie incorrectly crop by removing one line of pixels and base on the FHD BluRay 
+Noticed that most encodes for this movie incorrectly crop by removing one line of pixels and are based on the FHD BluRay 
 
 The FHD has 4 lines of dirty lines on the top and bottom while the 4k has none so it would be better to fill the border 1 pixel from non dirty lines to gain that extra line on the bottom or top
 
