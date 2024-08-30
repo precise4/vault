@@ -6,7 +6,7 @@ The UHD BluRay is SDR with better quality vs FHD BluRay and can run it at 10bit
 
 ## Method
 
-1. see [./script.vpy](Triangle.of.Sadness.2022.1080p.UHD.BluRay.DD+.7.1.x264/script.vpy)
+1. see [./script.vpy](./script.vpy)
 ```bash
 vspipe enc.vpy -c y4m - | \
 x264 - --demuxer y4m -o out.mkv \
