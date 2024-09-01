@@ -1,0 +1,19 @@
+Info:
+Source 1: UHD.BluRay.2160p.TrueHD.Atmos.7.1.SDR.HEVC.HYBRID.REMUX-FraMeSToR (video, audio, subtitles, chapters)
+.......2: BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR (subtitles)
+.......3: ATVP (subs)
+
+Notes:
+- Fixed dirtyline on the bottom
+- Scaled with Spline36
+- Web subs synced
+- Is 10-bit
+
+Comp: https://slow.pics/c/IwIjDK5Y
+
+x264 Logs
+
+x264 [info]: frame I:1059  Avg QP:24.39  size:269948                
+x264 [info]: frame P:40254 Avg QP:25.91  size:137608
+x264 [info]: frame B:170285 Avg QP:27.95  size: 68993
+x264 [info]: consecutive B-frames:  1.1%  3.2%  1.9% 15.9%  9.1% 49.6%  5.3%  3.4%  3.2%  1.4%  1.3%  2.5%  0.6%  0.3%  0.3%  0.4%  0.6%
