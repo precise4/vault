@@ -1,0 +1,294 @@
+General
+Unique ID                                : 314717709088680731423715112683611765592 (0xECC46D0E17AC7E1A5E3E18975A2A3B58)
+Complete name                            : Triangle.of.Sadness.2022.1080p.UHD.BluRay.DD+.7.1.x264-GEM.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 18.0 GiB
+Duration                                 : 2 h 26 min
+Overall bit rate                         : 17.6 Mb/s
+Frame rate                               : 24.000 FPS
+Movie name                               : Triangle of Sadness (2022) / Triangle of Sadness
+Released date                            : 2022
+Encoded date                             : 2024-08-31 03:56:00 UTC
+Writing application                      : mkvmerge v86.0 ('Winter') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+DIRECTOR                                 : Ruben Östlund
+IMDB                                     : tt7322224
+Source                                   : Apple TV+ WEB-DL
+TMDB                                     : movie/497828
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High 10@L4.1
+Format settings                          : CABAC / 5 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 5 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 26 min
+Bit rate                                 : 15.9 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 804 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 24.000 FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 10 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.430
+Stream size                              : 16.4 GiB (91%)
+Writing library                          : x264 core 164 r3108 31e19f9
+Encoding settings                        : cabac=1 / ref=5 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / psy_rd=1.05:0.00 / mixed_ref=1 / me_range=48 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=6 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / bframes=16 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=250 / rc=crf / mbtree=0 / crf=16.0 / qcomp=0.65 / qpmin=0 / qpmax=81 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / pb_ratio=1.30 / aq=3:0.80 / zones=205254,211598,q=20
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Format profile                           : Blu-ray Disc
+Format settings                          : Dolby Surround EX
+Codec ID                                 : A_EAC3
+Duration                                 : 2 h 26 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 536 kb/s
+Channel(s)                               : 8 channels
+Channel layout                           : L R C LFE Ls Rs Lb Rb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 1.58 GiB (9%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 16 min
+Bit rate                                 : 2 b/s
+Frame rate                               : 0.013 FPS
+Count of elements                        : 108
+Stream size                              : 2.60 KiB (0%)
+Title                                    : English (Forced)
+Language                                 : English
+Default                                  : No
+Forced                                   : Yes
+
+Text #2
+ID                                       : 4
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 21 min
+Bit rate                                 : 54 b/s
+Frame rate                               : 0.203 FPS
+Count of elements                        : 1727
+Stream size                              : 56.7 KiB (0%)
+Title                                    : English
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 23 min
+Bit rate                                 : 60 b/s
+Frame rate                               : 0.220 FPS
+Count of elements                        : 1897
+Stream size                              : 63.5 KiB (0%)
+Title                                    : English (SDH)
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 21 min
+Bit rate                                 : 45 b/s
+Frame rate                               : 0.208 FPS
+Count of elements                        : 1770
+Stream size                              : 47.6 KiB (0%)
+Title                                    : French (Parisian)
+Language                                 : French
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 7
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 26 min
+Bit rate                                 : 29.0 kb/s
+Frame rate                               : 0.395 FPS
+Count of elements                        : 3466
+Stream size                              : 30.4 MiB (0%)
+Title                                    : German
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 8
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 21 min
+Bit rate                                 : 48 b/s
+Frame rate                               : 0.208 FPS
+Count of elements                        : 1770
+Stream size                              : 50.3 KiB (0%)
+Title                                    : Italian
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 9
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 21 min
+Bit rate                                 : 57 b/s
+Frame rate                               : 0.225 FPS
+Count of elements                        : 1907
+Stream size                              : 59.3 KiB (0%)
+Title                                    : Spanish (Latin American)
+Language                                 : Spanish (Latin America)
+Default                                  : No
+Forced                                   : No
+
+Text #8
+ID                                       : 10
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 22 min
+Bit rate                                 : 25.6 kb/s
+Frame rate                               : 0.340 FPS
+Count of elements                        : 2902
+Stream size                              : 26.0 MiB (0%)
+Title                                    : Danish
+Language                                 : Danish
+Default                                  : No
+Forced                                   : No
+
+Text #9
+ID                                       : 11
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 22 min
+Bit rate                                 : 26.3 kb/s
+Frame rate                               : 0.415 FPS
+Count of elements                        : 3552
+Stream size                              : 26.8 MiB (0%)
+Title                                    : Finnish
+Language                                 : Finnish
+Default                                  : No
+Forced                                   : No
+
+Text #10
+ID                                       : 12
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 22 min
+Bit rate                                 : 26.5 kb/s
+Frame rate                               : 0.396 FPS
+Count of elements                        : 3392
+Stream size                              : 27.0 MiB (0%)
+Title                                    : Norwegian
+Language                                 : Norwegian
+Default                                  : No
+Forced                                   : No
+
+Text #11
+ID                                       : 13
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 26 min
+Bit rate                                 : 26.4 kb/s
+Frame rate                               : 0.389 FPS
+Count of elements                        : 3418
+Stream size                              : 27.6 MiB (0%)
+Title                                    : Swedish
+Language                                 : Swedish
+Default                                  : No
+Forced                                   : No
+
+Text #12
+ID                                       : 14
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 21 min
+Bit rate                                 : 85 b/s
+Frame rate                               : 0.221 FPS
+Count of elements                        : 1885
+Stream size                              : 89.1 KiB (0%)
+Title                                    : Arabic
+Language                                 : Arabic
+Default                                  : No
+Forced                                   : No
+
+Text #13
+ID                                       : 15
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 2 h 21 min
+Bit rate                                 : 46 b/s
+Frame rate                               : 0.209 FPS
+Count of elements                        : 1774
+Stream size                              : 47.8 KiB (0%)
+Title                                    : Portuguese (Brazilian)
+Language                                 : Portuguese (BR)
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Triangle Of Sadness
+00:06:53.500                             : en:Carl And Yaya
+00:15:10.000                             : en:"It's Not About The Money"
+00:25:27.167                             : en:The Yacht
+00:34:21.875                             : en:"King Of Shit"
+00:40:32.708                             : en:Rich Man, Poor Man
+00:49:14.292                             : en:Role Reversal
+00:53:39.125                             : en:Waterslide
+00:59:37.875                             : en:Captain's Dinner
+01:07:12.750                             : en:Rough Seas
+01:11:22.375                             : en:"Red Or Black"
+01:15:46.333                             : en:A Shit Socialist
+01:23:51.458                             : en:SOS
+01:26:56.792                             : en:The Island
+01:33:01.417                             : en:Captain Abigail
+01:44:51.458                             : en:Pretzel Sticks
+01:52:51.708                             : en:Special Favors
+02:02:14.000                             : en:Two Donkeys
+02:07:02.792                             : en:Gossip
+02:12:02.167                             : en:Hike
+02:17:20.750                             : en:No Return
+02:22:32.250                             : en:End Credits
+
+ReportBy                                 : MediaInfoLib - v23.04
