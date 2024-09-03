@@ -2,10 +2,17 @@
 
 ## Motovation
 
+The current main circulating version is the CiNEFiLE which is based on the CC 1080p release and has super blown out colours and the encode is not optimised as well there is the UHD which is SDR to make it way easier to transfer plus uses the worse audio
+
+### Notes
+
+TOHO is really doing a number with their audio, they are clearly compressing it hard and using a digital version of the audio rather than the magnetic tape used in BFI also has the same effect with Seven Samurai but their psycovisual quality is insane with their remasters
+
 ## Method
 
+1.
 ```sh
-vspipe enc.vpy -c y4m - | \
+vspipe script.vpy -c y4m - | \
 x264 - --demuxer y4m  -o out.mkv \
 --output-depth 10 \
 --no-mbtree \
@@ -33,3 +40,5 @@ x264 - --demuxer y4m  -o out.mkv \
 --no-fast-pskip \
 --subme 11 
 ```
+see [script.vpy](./script.vpy)
+2. MKVToolsNix mux
