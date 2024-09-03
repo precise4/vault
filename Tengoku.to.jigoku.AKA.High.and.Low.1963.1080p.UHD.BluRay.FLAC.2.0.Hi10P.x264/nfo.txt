@@ -1,0 +1,15 @@
+Info
+Source: 2160p.UHD.Blu-ray.REMUX.SDR.HEVC.DTS-HD.MA.4.0-CiNEPHiLES
+
+Notes:
+- Fixed two dirty lines before scaling
+- Resized with Spline36
+- Used Matrixed 4-Track Stereo https://slow.pics/c/jUTnkFz0
+- 10-Bit to maintain quality
+
+x264 Logs
+
+x264 [info]: frame I:974   Avg QP:27.86  size:198170
+x264 [info]: frame P:45732 Avg QP:29.29  size:134998
+x264 [info]: frame B:159699 Avg QP:31.54  size: 71410
+x264 [info]: consecutive B-frames:  1.1%  1.8%  5.6% 36.5% 14.9% 38.4%  1.0%  0.4%  0.1%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%  0.0%
