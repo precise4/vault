@@ -1,0 +1,368 @@
+General
+Unique ID                                : 97550821071960322257354922485574424959 (0x49639AD0410AF06D0994D6272C1A597F)
+Complete name                            : Ran.1985.1080p.BluRay.DTS.4.0.x264-GEM.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 24.1 GiB
+Duration                                 : 2 h 42 min
+Overall bit rate                         : 21.2 Mb/s
+Frame rate                               : 23.976 FPS
+Movie name                               : Ran (1985)
+Encoded date                             : 2024-09-04 23:48:55 UTC
+Writing application                      : mkvmerge v86.0 ('Winter') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+IMDB                                     : tt0089881
+Remuxed by                               : Suina
+TMDB                                     : movie/11645
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L4.1
+Format settings                          : CABAC / 4 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 4 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 2 h 42 min
+Bit rate                                 : 19.2 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 1 036 pixels
+Display aspect ratio                     : 1.85:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.402
+Stream size                              : 21.8 GiB (91%)
+Writing library                          : x264 core 164 r3191+64 d8fd792 t_mod_New [(8 & 10)-bit@all X86_64]
+Encoding settings                        : cabac=1 / ref=4 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=11 / psy=1 / fade_compensate=0.00 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=6 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / constrained_intra=0 / fgo=0 / bframes=16 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=0 / weightp=2 / keyint=250 / keyint_min=24 / scenecut=40 / intra_refresh=0 / rc_lookahead=250 / rc=crf / mbtree=0 / crf=19.0000 / qcomp=0.60 / qpmin=0:0:0 / qpmax=69:69:69 / qpstep=4 / vbv_maxrate=62500 / vbv_bufsize=78125 / crf_max=0.0 / nal_hrd=none / filler=0 / ip_ratio=1.40 / pb_ratio=1.30 / aq=3:0.80 / aq-sensitivity=10.00 / aq-factor=1.00:1.00:1.00:1.00 / aq2=0 / aq3=0 / zones=228828,234031,qp=27
+Language                                 : Japanese
+Default                                  : Yes
+Forced                                   : No
+
+Audio #1
+ID                                       : 2
+Format                                   : DTS
+Format/Info                              : Digital Theater Systems
+Codec ID                                 : A_DTS
+Duration                                 : 2 h 42 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 509 kb/s
+Channel(s)                               : 4 channels
+Channel layout                           : C L R Cb
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 93.750 FPS (512 SPF)
+Bit depth                                : 24 bits
+Compression mode                         : Lossy
+Stream size                              : 1.71 GiB (7%)
+Language                                 : Japanese (JP)
+Default                                  : Yes
+Forced                                   : No
+
+Audio #2
+ID                                       : 3
+Format                                   : Opus
+Codec ID                                 : A_OPUS
+Duration                                 : 2 h 42 min
+Bit rate                                 : 103 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 50.000 FPS (960 SPF)
+Compression mode                         : Lossy
+Stream size                              : 119 MiB (0%)
+Title                                    : Commentary by film scholar Peter Grilli (Wellspring)
+Writing library                          : Lavc61.3.100 libopus
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #3
+ID                                       : 4
+Format                                   : Opus
+Codec ID                                 : A_OPUS
+Duration                                 : 2 h 42 min
+Bit rate                                 : 85.4 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 50.000 FPS (960 SPF)
+Compression mode                         : Lossy
+Stream size                              : 99.4 MiB (0%)
+Title                                    : Commentary by film scholar Stephen Prince (Criterion)
+Writing library                          : Lavc61.3.100 libopus
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #4
+ID                                       : 5
+Format                                   : Opus
+Codec ID                                 : A_OPUS
+Duration                                 : 2 h 42 min
+Bit rate                                 : 108 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 50.000 FPS (960 SPF)
+Compression mode                         : Lossy
+Stream size                              : 125 MiB (1%)
+Title                                    : Commentary by film scholar Stephen Prince (Wellspring)
+Writing library                          : Lavc61.3.100 libopus
+Language                                 : English
+Default                                  : No
+Forced                                   : No
+
+Audio #5
+ID                                       : 6
+Format                                   : Opus
+Codec ID                                 : A_OPUS
+Duration                                 : 2 h 42 min
+Bit rate                                 : 75.7 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 50.000 FPS (960 SPF)
+Compression mode                         : Lossy
+Stream size                              : 88.0 MiB (0%)
+Title                                    : Commentary by production managers Teruyo Nogami and Satoru Iseki (Glovision Kudan Studio)
+Writing library                          : Lavc61.3.100 libopus
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+
+Text #1
+ID                                       : 7
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 42 min
+Bit rate                                 : 17.5 kb/s
+Frame rate                               : 0.258 FPS
+Count of elements                        : 2508
+Stream size                              : 20.2 MiB (0%)
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Text #2
+ID                                       : 8
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 39 min
+Bit rate                                 : 18.9 kb/s
+Frame rate                               : 0.264 FPS
+Count of elements                        : 2518
+Stream size                              : 21.5 MiB (0%)
+Language                                 : Danish (DK)
+Default                                  : No
+Forced                                   : No
+
+Text #3
+ID                                       : 9
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 39 min
+Bit rate                                 : 22.0 kb/s
+Frame rate                               : 0.265 FPS
+Count of elements                        : 2534
+Stream size                              : 25.0 MiB (0%)
+Language                                 : Dutch (NL)
+Default                                  : No
+Forced                                   : No
+
+Text #4
+ID                                       : 10
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 39 min
+Bit rate                                 : 21.0 kb/s
+Frame rate                               : 0.265 FPS
+Count of elements                        : 2534
+Stream size                              : 23.9 MiB (0%)
+Language                                 : Finnish (FI)
+Default                                  : No
+Forced                                   : No
+
+Text #5
+ID                                       : 11
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 32 min
+Bit rate                                 : 18.0 kb/s
+Frame rate                               : 0.276 FPS
+Count of elements                        : 2526
+Stream size                              : 19.7 MiB (0%)
+Language                                 : French (FR)
+Default                                  : No
+Forced                                   : No
+
+Text #6
+ID                                       : 12
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 37 min
+Bit rate                                 : 20.5 kb/s
+Frame rate                               : 0.262 FPS
+Count of elements                        : 2478
+Stream size                              : 23.1 MiB (0%)
+Language                                 : German (DE)
+Default                                  : No
+Forced                                   : No
+
+Text #7
+ID                                       : 13
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 39 min
+Bit rate                                 : 19.7 kb/s
+Frame rate                               : 0.264 FPS
+Count of elements                        : 2522
+Stream size                              : 22.4 MiB (0%)
+Language                                 : Italian (IT)
+Default                                  : No
+Forced                                   : No
+
+Text #8
+ID                                       : 14
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 32 min
+Bit rate                                 : 22.2 kb/s
+Frame rate                               : 0.262 FPS
+Count of elements                        : 2396
+Stream size                              : 24.3 MiB (0%)
+Title                                    : SDH
+Language                                 : Japanese (JP)
+Default                                  : No
+Forced                                   : No
+
+Text #9
+ID                                       : 15
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 39 min
+Bit rate                                 : 18.1 kb/s
+Frame rate                               : 0.260 FPS
+Count of elements                        : 2478
+Stream size                              : 20.6 MiB (0%)
+Language                                 : Norwegian (NO)
+Default                                  : No
+Forced                                   : No
+
+Text #10
+ID                                       : 16
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 39 min
+Bit rate                                 : 20.2 kb/s
+Frame rate                               : 0.264 FPS
+Count of elements                        : 2524
+Stream size                              : 23.0 MiB (0%)
+Language                                 : Spanish (ES)
+Default                                  : No
+Forced                                   : No
+
+Text #11
+ID                                       : 17
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 39 min
+Bit rate                                 : 20.5 kb/s
+Frame rate                               : 0.265 FPS
+Count of elements                        : 2530
+Stream size                              : 23.3 MiB (0%)
+Title                                    : Latin American
+Language                                 : Spanish (Latin America)
+Default                                  : No
+Forced                                   : No
+
+Text #12
+ID                                       : 18
+Format                                   : PGS
+Muxing mode                              : zlib
+Codec ID                                 : S_HDMV/PGS
+Codec ID/Info                            : Picture based subtitle format used on BDs/HD-DVDs
+Duration                                 : 2 h 39 min
+Bit rate                                 : 20.4 kb/s
+Frame rate                               : 0.260 FPS
+Count of elements                        : 2480
+Stream size                              : 23.2 MiB (0%)
+Language                                 : Swedish (SE)
+Default                                  : No
+Forced                                   : No
+
+Menu
+00:00:00.000                             : en:Opening - ja:オープニング
+00:00:31.448                             : en:Title (Maki Hunt) - ja:タイトル (巻狩り)
+00:03:00.680                             : en:Wild Banquet - ja:野の宴
+00:09:02.125                             : en:Hidetora, Who Had a Dream - ja:夢を見た秀虎
+00:12:08.937                             : en:Three Arrows - ja:三本の矢
+00:21:43.302                             : en:The Pursued Two - ja:追われた二人
+00:25:28.152                             : en:Kaede's Ascent to the Castle - ja:楓の方登城
+00:27:28.939                             : en:The Whereabouts of the Uma-Jirushi - ja:馬印の行方
+00:30:25.490                             : en:A Pledge to the Gods - ja:起請文
+00:38:48.409                             : en:Jiro and His Entourage - ja:次郎と側近
+00:41:32.323                             : en:Towards the End - ja:末の方
+00:45:08.497                             : en:Leaving the Second Castle - ja:二の城を出る
+00:49:51.739                             : en:Under the Blazing Sun - ja:炎天下
+00:51:35.884                             : en:Transfer of the Third Castle - ja:三の城請け渡し
+00:53:53.856                             : en:Tango's Admonition - ja:丹後の諫言
+00:59:28.565                             : en:Entering the Third Castle - ja:三の城に入る
+01:00:20.200                             : en:Anomalies - ja:異変
+01:01:51.416                             : en:A Glimpse of Hell - ja:地獄絵巻
+01:07:33.925                             : en:Conflagaration of the Third Castle - ja:三の城炎上
+01:15:40.536                             : en:A Reunion in the Storm - ja:嵐の中の再会
+01:18:00.551                             : en:A Cabin in the Valley - ja:谷間の小屋
+01:25:43.138                             : en:Hair and Armor of the Fallen - ja:遺髪と鎧冑
+01:28:05.030                             : en:Tokens of Gratitude - ja:報獎
+01:30:11.197                             : en:Kaede's Wish - ja:楓の願い
+01:35:20.715                             : en:A Send-Off - ja:見送り
+01:35:54.081                             : en:A New Okugata - ja:新しい奥方
+01:38:35.201                             : en:Confronting the Traitorous Vassals - ja:逆臣を成敗
+01:43:58.357                             : en:A Nonsensical Act - ja:たわけた役目
+01:45:55.349                             : en:A Wavering Kyoami - ja:迷う狂阿彌
+01:48:33.632                             : en:The Requested Item - ja:申し付けの品
+01:53:32.097                             : en:Siblings on the Run - ja:逃げる姉弟
+01:54:51.134                             : en:Hidetora at the Castle Ruins - ja:城跡の秀虎
+01:58:27.392                             : en:Cavalry Crossing the River - ja:川を渡る騎馬隊
+01:59:36.085                             : en:Saburo's Offer - ja:三郎の申し入れ
+02:00:13.039                             : en:Fujimaki's Army - ja:藤巻の軍勢
+02:01:13.433                             : en:Battle Preparations - ja:出陣の用意
+02:02:55.326                             : en:Kaede's Rebuke - ja:楓の叱咤
+02:04:15.031                             : en:Avīci Hell - ja:無間地獄
+02:07:23.594                             : en:The Four Armies - ja:四つの軍勢
+02:12:45.124                             : en:Leaving Tsurumaru Behind - ja:鶴丸を残して
+02:13:38.302                             : en:To Azusano - ja:梓野へ
+02:17:28.073                             : en:Finding Hidetora - ja:秀虎発見
+02:22:03.139                             : en:Battle of Azusano - ja:合戦
+02:28:04.500                             : en:Neither God nor Buddha - ja:神も仏も
+02:33:09.430                             : en:She-Fox - ja:女狐
+02:36:02.144                             : en:Twilight - ja:夕暮れ
+02:39:06.328                             : en:End Credits - ja:エンドクレジット
+
+ReportBy                                 : MediaInfoLib - v23.04
