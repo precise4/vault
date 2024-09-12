@@ -1,0 +1,14 @@
+File Name.......: All.of.Us.Strangers.2023.1080p.BluRay.DD+.5.1.x264-GEM.mkv
+Video...........: AVC / 28.2 Mb/s / 1080p / 23.976 FPS / 1920×804 / High@L4.1 8 bits
+Audio...........: English / E-AC-3 / 5.1ch / 1024kb/s
+Subtitle(s).....: English (GB), English (GB) [SDH], Bulgarian, Mandarin (Hant), Cantonese (Hant), Czech, Danish, Dutch, Estonian, Finnish, French (CA), French (FR), German, Greek, Hebrew, Hungarian, Icelandic, Italian, Japanese, Korean, Lithuanian, Norwegian, Polish, Portuguese (BR), Portuguese (PT), Romanian, Slovak, Slovenian, Spanish (Latin America), Spanish (ES), Swedish, Turkish, Ukrainian
+Chapters........: Yes
+Source..........: USA Criterion & GBR Disney / 1080p.REPACK.BluRay.REMUX.AVC.DTS-HD.MA.5.1-CiNEPHiLES.mkv
+
+Notes...........:
+
+- Chunk encoded
+- Fixed dirty lines 1 top, 1 bottom
+- Quite grainy so hard to encode stretched it to 94 vmaf
+
+VMAF graph: https://files.catbox.moe/hwdtpj.png
