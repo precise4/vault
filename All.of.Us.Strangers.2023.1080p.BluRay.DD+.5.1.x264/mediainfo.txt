@@ -1,0 +1,584 @@
+General
+Unique ID                                : 34096269392810141233092021248488075653 (0x19A6B3DF0185BDDA17E5F47D660F7185)
+Complete name                            : All.of.Us.Strangers.2023.1080p.BluRay.DD+.5.1.x264-GEM.mkv
+Format                                   : Matroska
+Format version                           : Version 4
+File size                                : 21.6 GiB
+Duration                                 : 1 h 45 min
+Overall bit rate                         : 29.2 Mb/s
+Frame rate                               : 23.976 FPS
+Movie name                               : All of Us Strangers (2023)
+Encoded date                             : 2024-09-11 20:22:45 UTC
+Writing application                      : mkvmerge v86.0 ('Winter') 64-bit
+Writing library                          : libebml v1.4.5 + libmatroska v1.7.1
+IMDB                                     : tt21192142
+TMDB                                     : movie/994108
+
+Video
+ID                                       : 1
+Format                                   : AVC
+Format/Info                              : Advanced Video Codec
+Format profile                           : High@L5
+Format settings                          : CABAC / 16 Ref Frames
+Format settings, CABAC                   : Yes
+Format settings, Reference frames        : 16 frames
+Codec ID                                 : V_MPEG4/ISO/AVC
+Duration                                 : 1 h 45 min
+Bit rate                                 : 28.2 Mb/s
+Width                                    : 1 920 pixels
+Height                                   : 804 pixels
+Display aspect ratio                     : 2.40:1
+Frame rate mode                          : Constant
+Frame rate                               : 23.976 (24000/1001) FPS
+Color space                              : YUV
+Chroma subsampling                       : 4:2:0
+Bit depth                                : 8 bits
+Scan type                                : Progressive
+Bits/(Pixel*Frame)                       : 0.761
+Stream size                              : 20.8 GiB (96%)
+Writing library                          : x264 core 164 r3191+64 d8fd792 t_mod_New [(8 & 10)-bit@all X86_64]
+Encoding settings                        : cabac=1 / ref=16 / deblock=1:-3:-3 / analyse=0x3:0x133 / me=umh / subme=10 / psy=1 / fade_compensate=0.00 / psy_rd=1.00:0.00 / mixed_ref=1 / me_range=32 / chroma_me=1 / trellis=2 / 8x8dct=1 / cqm=0 / deadzone=21,11 / fast_pskip=0 / chroma_qp_offset=-2 / threads=24 / lookahead_threads=4 / sliced_threads=0 / nr=0 / decimate=0 / interlaced=0 / bluray_compat=0 / stitchable=1 / constrained_intra=0 / fgo=0 / bframes=8 / b_pyramid=2 / b_adapt=2 / b_bias=0 / direct=3 / weightb=1 / open_gop=1 / weightp=2 / keyint=250 / keyint_min=23 / scenecut=40 / intra_refresh=0 / rc=crf / mbtree=0 / crf=21.0000 / qcomp=0.60 / qpmin=0:0:0 / qpmax=69:69:69 / qpstep=4 / ip_ratio=1.40 / pb_ratio=1.30 / aq=3:0.80 / aq-sensitivity=10.00 / aq-factor=1.00:1.00:1.00:1.00 / aq2=0 / aq3=0
+Language                                 : English
+Default                                  : Yes
+Forced                                   : No
+
+Audio
+ID                                       : 2
+Format                                   : E-AC-3
+Format/Info                              : Enhanced AC-3
+Commercial name                          : Dolby Digital Plus
+Codec ID                                 : A_EAC3
+Duration                                 : 1 h 45 min
+Bit rate mode                            : Constant
+Bit rate                                 : 1 024 kb/s
+Channel(s)                               : 6 channels
+Channel layout                           : L R C LFE Ls Rs
+Sampling rate                            : 48.0 kHz
+Frame rate                               : 31.250 FPS (1536 SPF)
+Compression mode                         : Lossy
+Stream size                              : 774 MiB (4%)
+Language                                 : English
+Service kind                             : Complete Main
+Default                                  : Yes
+Forced                                   : No
+
+Text #1
+ID                                       : 3
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 42 min
+Bit rate                                 : 40 b/s
+Frame rate                               : 0.182 FPS
+Count of elements                        : 1120
+Stream size                              : 30.3 KiB (0%)
+Language                                 : English (GB)
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney GBR Blu-ray (2024)
+
+Text #2
+ID                                       : 4
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 44 min
+Bit rate                                 : 46 b/s
+Frame rate                               : 0.211 FPS
+Count of elements                        : 1328
+Stream size                              : 35.6 KiB (0%)
+Title                                    : SDH
+Language                                 : English (GB)
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney GBR Blu-ray (2024)
+
+Text #3
+ID                                       : 5
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 45 min
+Bit rate                                 : 46 b/s
+Frame rate                               : 0.150 FPS
+Count of elements                        : 949
+Stream size                              : 35.9 KiB (0%)
+Language                                 : Bulgarian
+Default                                  : No
+Forced                                   : No
+Source                                   : iTunes WEB-DL
+
+Text #4
+ID                                       : 6
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 24 b/s
+Frame rate                               : 0.161 FPS
+Count of elements                        : 998
+Stream size                              : 18.4 KiB (0%)
+Title                                    : Mandarin (Traditional)
+Language                                 : Mandarin (Hant)
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #5
+ID                                       : 7
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 24 b/s
+Frame rate                               : 0.161 FPS
+Count of elements                        : 998
+Stream size                              : 18.7 KiB (0%)
+Title                                    : Cantonese (Traditional)
+Language                                 : Cantonese (Hant)
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #6
+ID                                       : 8
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 31 b/s
+Frame rate                               : 0.158 FPS
+Count of elements                        : 979
+Stream size                              : 23.6 KiB (0%)
+Language                                 : Czech
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #7
+ID                                       : 9
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 33 b/s
+Frame rate                               : 0.122 FPS
+Count of elements                        : 735
+Stream size                              : 24.9 KiB (0%)
+Language                                 : Danish
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #8
+ID                                       : 10
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 29 b/s
+Frame rate                               : 0.130 FPS
+Count of elements                        : 786
+Stream size                              : 21.6 KiB (0%)
+Language                                 : Dutch
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #9
+ID                                       : 11
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 45 min
+Bit rate                                 : 33 b/s
+Frame rate                               : 0.155 FPS
+Count of elements                        : 983
+Stream size                              : 26.2 KiB (0%)
+Language                                 : Estonian
+Default                                  : No
+Forced                                   : No
+Source                                   : iTunes WEB-DL
+
+Text #10
+ID                                       : 12
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 36 b/s
+Frame rate                               : 0.163 FPS
+Count of elements                        : 981
+Stream size                              : 26.9 KiB (0%)
+Language                                 : Finnish
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #11
+ID                                       : 13
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 28 b/s
+Frame rate                               : 0.146 FPS
+Count of elements                        : 907
+Stream size                              : 21.4 KiB (0%)
+Title                                    : Canadian
+Language                                 : French (CA)
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #12
+ID                                       : 14
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 45 min
+Bit rate                                 : 27 b/s
+Frame rate                               : 0.144 FPS
+Count of elements                        : 908
+Stream size                              : 21.5 KiB (0%)
+Title                                    : Parisian
+Language                                 : French (FR)
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #13
+ID                                       : 15
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 31 b/s
+Frame rate                               : 0.147 FPS
+Count of elements                        : 887
+Stream size                              : 23.1 KiB (0%)
+Language                                 : German
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #14
+ID                                       : 16
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 53 b/s
+Frame rate                               : 0.158 FPS
+Count of elements                        : 981
+Stream size                              : 40.3 KiB (0%)
+Language                                 : Greek
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #15
+ID                                       : 17
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 45 min
+Bit rate                                 : 45 b/s
+Frame rate                               : 0.152 FPS
+Count of elements                        : 963
+Stream size                              : 35.5 KiB (0%)
+Language                                 : Hebrew
+Default                                  : No
+Forced                                   : No
+Source                                   : iTunes WEB-DL
+
+Text #16
+ID                                       : 18
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 34 b/s
+Frame rate                               : 0.159 FPS
+Count of elements                        : 985
+Stream size                              : 26.1 KiB (0%)
+Language                                 : Hungarian
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #17
+ID                                       : 19
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 33 b/s
+Frame rate                               : 0.159 FPS
+Count of elements                        : 959
+Stream size                              : 24.4 KiB (0%)
+Language                                 : Icelandic
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #18
+ID                                       : 20
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 31 b/s
+Frame rate                               : 0.157 FPS
+Count of elements                        : 973
+Stream size                              : 23.6 KiB (0%)
+Language                                 : Italian
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #19
+ID                                       : 21
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 26 b/s
+Frame rate                               : 0.145 FPS
+Count of elements                        : 874
+Stream size                              : 19.5 KiB (0%)
+Language                                 : Japanese
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #20
+ID                                       : 22
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 33 b/s
+Frame rate                               : 0.160 FPS
+Count of elements                        : 992
+Stream size                              : 25.3 KiB (0%)
+Language                                 : Korean
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #21
+ID                                       : 23
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 45 min
+Bit rate                                 : 30 b/s
+Frame rate                               : 0.154 FPS
+Count of elements                        : 977
+Stream size                              : 23.4 KiB (0%)
+Language                                 : Lithuanian
+Default                                  : No
+Forced                                   : No
+Source                                   : iTunes WEB-DL
+
+Text #22
+ID                                       : 24
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 32 b/s
+Frame rate                               : 0.162 FPS
+Count of elements                        : 975
+Stream size                              : 23.6 KiB (0%)
+Language                                 : Norwegian
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #23
+ID                                       : 25
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 29 b/s
+Frame rate                               : 0.146 FPS
+Count of elements                        : 904
+Stream size                              : 22.0 KiB (0%)
+Language                                 : Polish
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #24
+ID                                       : 26
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 29 b/s
+Frame rate                               : 0.157 FPS
+Count of elements                        : 973
+Stream size                              : 22.1 KiB (0%)
+Title                                    : Brazilian
+Language                                 : Portuguese (BR)
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #25
+ID                                       : 27
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 32 b/s
+Frame rate                               : 0.157 FPS
+Count of elements                        : 976
+Stream size                              : 24.7 KiB (0%)
+Title                                    : Iberian
+Language                                 : Portuguese (PT)
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #26
+ID                                       : 28
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 34 b/s
+Frame rate                               : 0.158 FPS
+Count of elements                        : 983
+Stream size                              : 26.1 KiB (0%)
+Language                                 : Romanian
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #27
+ID                                       : 29
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 26 b/s
+Frame rate                               : 0.158 FPS
+Count of elements                        : 980
+Stream size                              : 20.4 KiB (0%)
+Language                                 : Slovak
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #28
+ID                                       : 30
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 45 min
+Bit rate                                 : 28 b/s
+Frame rate                               : 0.130 FPS
+Count of elements                        : 821
+Stream size                              : 21.7 KiB (0%)
+Language                                 : Slovenian
+Default                                  : No
+Forced                                   : No
+Source                                   : iTunes WEB-DL
+
+Text #29
+ID                                       : 31
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 32 b/s
+Frame rate                               : 0.162 FPS
+Count of elements                        : 980
+Stream size                              : 24.3 KiB (0%)
+Title                                    : Latin American
+Language                                 : Spanish (Latin America)
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #30
+ID                                       : 32
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 43 min
+Bit rate                                 : 30 b/s
+Frame rate                               : 0.158 FPS
+Count of elements                        : 979
+Stream size                              : 23.0 KiB (0%)
+Title                                    : Castilian
+Language                                 : Spanish (ES)
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #31
+ID                                       : 33
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 30 b/s
+Frame rate                               : 0.122 FPS
+Count of elements                        : 737
+Stream size                              : 22.4 KiB (0%)
+Language                                 : Swedish
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #32
+ID                                       : 34
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 40 min
+Bit rate                                 : 32 b/s
+Frame rate                               : 0.158 FPS
+Count of elements                        : 950
+Stream size                              : 23.7 KiB (0%)
+Language                                 : Turkish
+Default                                  : No
+Forced                                   : No
+Source                                   : Disney+ WEB-DL
+
+Text #33
+ID                                       : 35
+Format                                   : UTF-8
+Codec ID                                 : S_TEXT/UTF8
+Codec ID/Info                            : UTF-8 Plain Text
+Duration                                 : 1 h 45 min
+Bit rate                                 : 47 b/s
+Frame rate                               : 0.155 FPS
+Count of elements                        : 982
+Stream size                              : 36.6 KiB (0%)
+Language                                 : Ukrainian
+Default                                  : No
+Forced                                   : No
+Source                                   : iTunes WEB-DL
+
+Menu
+00:00:00.000                             : en:Night Visit
+00:08:33.763                             : en:Home
+00:22:35.271                             : en:People Like Me
+00:31:10.952                             : en:Everything's Different Now
+00:40:42.357                             : en:Drifted to the Edge
+00:47:47.114                             : en:A Bit Tutti-Frutti
+00:54:14.835                             : en:Into the World
+01:00:31.628                             : en:Is This Real?
+01:10:09.580                             : en:Nightmare
+01:17:15.965                             : en:Can You See Them?
+01:23:25.209                             : en:The Family Special
+01:29:33.410                             : en:The Power of Love
+01:42:45.075                             : en:End Credits
+
+ReportBy                                 : MediaInfoLib - v23.04
