@@ -1,0 +1,16 @@
+File Name.......: Mad.God.2021.1080p.BluRay.DDP5.1.x264-GEM.mkv
+Video...........: AVC / 19.3 Mb/s / 1080p / 23.976 FPS / 1920×1080 / High@L4.1 8 bits
+Audio(1)........: English / E-AC-3 / 5.1ch / 1024kb/s
+Audio(2)........: English / Opus / 2.0ch / 91.2kb/s / Commentary by Writer/Director Phil Tippett and Filmmaker/Author Guillermo Del Toro 
+Audio(3)........: English / Opus / 2.0ch / 88.3kb/s / Commentary by Sound Designer Richard Beggs, Cinematographer Chris Morley, Animator Tom Gibbons, Fabricator Kayte Sabicer, Editor Ken Rogerson, Composer Dan Wool and Writer/Director Phill Tippett 
+Subtitle(s).....: English, English (SDH)
+Chapters........: Yes
+Source..........: 1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-TRiToN.mkv
+
+Notes...........:
+
+- Chunk encoded
+
+- No real speech so minimal subs
+
+VMAF graph: https://files.catbox.moe/hn9n80.png
