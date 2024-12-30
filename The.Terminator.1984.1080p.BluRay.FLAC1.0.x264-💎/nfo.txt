@@ -1,0 +1,44 @@
+SUMMARY:
+Source #1.........: BluRay AVC FLAC 1.0 - CiNEPHiLES (Thanks!) [Video, Audio, Subs]
+Source #2.........: BluRay DTS 5.1 x264 - DON (Thanks!) [Comparison]
+Chapters..........: Yes - Named
+Overall Bitrate...: 22.1 Mb/s
+Size..............: 16.5 GiB
+Duration..........: 1 h 47 min
+Genre.............: Action, Thriller, Science Fiction
+TMDB..............: https://www.themoviedb.org/movie/218-the-terminator
+
+VIDEO:
+Format............: x264
+Codec.............: AVC
+Bitrate...........: 20.1 Mb/s
+Resolution........: 1920 x 1040
+Aspect Ratio......: 1.846
+Framerate.........: 23.976
+Source............: MGM USA Blu-ray (2013)
+
+AUDIO 1: Mono Mix
+Format............: FLAC
+Codec.............: FLAC
+Bitrate...........: 270 kb/s
+Sampling Rate.....: 48.0 kHz
+Language..........: English
+Channels..........: 1.0
+Source............: Image Entertainment LaserDisc (1991) [ID8316HD]
+
+AUDIO 2: Surround Remix
+Format............: Dolby Digital Plus
+Codec.............: E-AC-3
+Bitrate...........: 1536 kb/s
+Sampling Rate.....: 48.0 kHz
+Language..........: English
+Channels..........: 7.1
+Source............: Manta Lab HKG UHD Blu-ray (2024)
+
+NOTES:
+- Chunk encoded to 96 VMAF
+- Fixed dirty lines on top/bottom
+- Audio comparisons: https://blah-ray.blogspot.com/2022/05/the-terminator-1984.html
+- Kept both mixes (current encodes only have 5.1 or dual mono)
+
+Comp - Source vs Encode vs DON https://slow.pics/c/2XBe2HKz
